@@ -10,13 +10,13 @@ Author: Vidya Sambasivam
 
 
 There are two files created for the assignment.
+a. run_analysis.R (Code file for creating tidy data)
+b. Codebook.md (Data dictionary and overview of the data created )
 
 
 run_analysis.R is a R script file which has a function to create Tidy Data from 
 
-the given data set 
-
-run_analysis is the only function that runs to create the TidyData.txt file
+the given data set. It contains only one function run_analysis that runs to create the TidyData.txt file
 
 Logic is as follows
 
